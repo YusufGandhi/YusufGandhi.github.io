@@ -132,6 +132,8 @@ The `addbibresource` is to include the the .bib as the main bibliography file. T
 
 There are several tags for that can be used, the above examples are some of them. `@article` is used to include an article within the bibliography, `@online` is used to include a webpage or other online materials. And so on. (For a more complete guide, visit [this website][biblatexref1] and also [this website][biblatexref2]).
 
+Another important point to note in building the .bib file is how to write the authors. If there are more than one author, separate the names with `and` word (not a `,`). The name format can be `lastname, firstname` or `firstname lastname`. But the important thing is to separate them with the `and` keyword. (Refer to [this webpage](http://www.tex.ac.uk/FAQ-manyauthor.html)).
+
 
 #### Printing the bibliography
 
