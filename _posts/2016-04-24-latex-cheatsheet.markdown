@@ -3,6 +3,7 @@ layout: post
 title:  "LaTeX Cheatsheet"
 date:   2016-04-24 20:38:59 +1000
 categories: latex
+permalink: latex-cheatsheet
 ---
 > _Note: This is a live document. It will be updated regularly as I find new tricks in using $\LaTeX$._
 
