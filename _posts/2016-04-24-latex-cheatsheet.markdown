@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "LaTeX Cheatsheet"
+title:  " $\\LaTeX$ Cheatsheet"
 date:   2016-04-24 20:38:59 +1000
 categories: latex
 permalink: latex-cheatsheet
