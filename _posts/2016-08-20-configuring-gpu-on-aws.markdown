@@ -3,6 +3,7 @@ layout: post
 title:  "Setting up GPU instances on AWS"
 permalink: gpu-aws
 ---
+> **UPDATE 23-Aug-2016**: The link below turns out to be for CUDA 6.5. If you want to install CUDA 7.5 (which is required by Matlab 2016A), please go to [this page](http://tleyden.github.io/blog/2015/11/22/cuda-7-dot-5-on-aws-gpu-instance-running-ubuntu-14-dot-04/) instead.
 
 As I'm finishing my degree at ANU, I am required to write a thesis. My topic is about deep learning for  image classification. To achieve this, I need to train three different autoencoders on three different image channels. This will set the foundation of the next phase, training the convolutional neural networks to do classification.
 
