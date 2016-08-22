@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Setting up Ubuntu Desktop for VNC"
+title:  "Setting up VNC on Ubuntu Desktop"
 permalink: setting-up-vnc
 ---
 
-Another tutorial for Ubuntu setup. I apparently require to use Ubuntu desktop to make everything easier as I'm working with a lot of images.
+Another tutorial for Ubuntu setup. I apparently require to use Ubuntu desktop to make everything easier as I'm working with a lot of images. As an additional to that, I also need to install VNC server on Ubuntu, so I can remotely connect the AWS instance.
 
 As usual, it's difficult. I had to try several different configurations. The grey screen is the main problem after googling for a while.
 
