@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setting up Ubuntu Desktop for VNC"
-permalink: gpu-aws
+permalink: setting-up-vnc
 ---
 
 Another tutorial for Ubuntu setup. I apparently require to use Ubuntu desktop to make everything easier as I'm working with a lot of images.
