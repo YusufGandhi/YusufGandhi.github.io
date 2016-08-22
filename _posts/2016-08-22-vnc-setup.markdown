@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Setting up Ubuntu Desktop for VNC"
+permalink: gpu-aws
+---
+
+Another tutorial for Ubuntu setup. I apparently require to use Ubuntu desktop to make everything easier as I'm working with a lot of images.
+
+As usual, it's difficult. I had to try several different configurations. The grey screen is the main problem after googling for a while.
+
+And as most developers find, Stackoverflow comes in handy. [This answer](http://stackoverflow.com/questions/25657596/how-to-set-up-gui-on-amazon-ec2-ubuntu-server) particularly explains thoroughly what needs to be done to set up the Ubuntu desktop and the VNC server. However, for my case, I found the directions for uncommenting two lines in the `xstartup` file created a problem. The VNC server works perfectly when I don't follow that particular guidance. So, if you find yourself frustrated following the direction of the accepted answer, try leaving the `xstartup` file untouched. That's what works for me.
+
+Happy configuring!
