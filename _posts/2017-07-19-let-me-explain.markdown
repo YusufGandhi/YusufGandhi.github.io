@@ -9,7 +9,7 @@ Dear honey,
 
 Agak sulit menyampaikan ide yang cukup kompleks dari WhatsApp. _So, I just decided to write a blog post instead of using the chat app._
 
-Sekali lagi aku mohon maaf, kalau kamu merasa aku _neglect._ Tidak pernah dalam pikiranku untuk menelantarkan kamu atau membiarkan kamu. Jadi izinkan aku me-_layout_ pikiran aku sedikit.
+Sekali lagi aku mohon maaf, kalau kamu merasa aku _neglect._ Tidak pernah dalam pikiranku untuk menelantarkan kamu atau membiarkan kamu. Jadi izinkan aku me- _layout_ pikiran aku sedikit.
 
 ### Akar Permasalahan
 
@@ -17,7 +17,7 @@ Mungkin diagram di bawah bisa membantu mencari alasan kenapa kita sulit berkomun
 
 > *REMINDER:* Diagram di bawah bukan untuk mencari siapa yang salah.
 
-![vicious cycle](http://localhost:4000/assets/vicious_cycle.png)
+![vicious cycle](http://yusufgandhi.github.io/assets/vicious_cycle.png)
 
 
 Aku hanya ingin memberitahukan kenapa aku sering diam jadinya dan sulit berkomunikasi. _I found it difficult to talk to someone who constantly keeps silent when you talk to him/her._
