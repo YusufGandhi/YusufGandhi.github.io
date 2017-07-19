@@ -110,4 +110,4 @@ Tentu aku gak ego juga. *If you're not into sex that moment,* yah aku gak akan m
 
 > ***My suggestion:*** kenali tugas masing-masing. It's difficult to understand each other if we don't recognize the functions that we are assigned as a body.
 
-***<span style="color:red">If you feel neglected, I'm terribly sorry. If you feel that I don't pay atttention, forgive my rusty, forgetful brain. I'm not as smart as you. And above all, I :heart: you, sayang...</span>***
+***<span style="color:red">If you feel neglected, I'm terribly sorry. If you feel that I don't pay atttention, forgive my rusty, forgetful brain. I'm not as smart as you. And above all, I love you, sayang...</span>***
